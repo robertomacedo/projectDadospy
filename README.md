@@ -1,2 +1,2 @@
 # projectDadospy
-Simulador de jogo de dados usando a lib radom em python
+Simulador de jogo de dados usando a lib random em python
